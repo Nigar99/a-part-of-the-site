@@ -1,0 +1,27 @@
+.title {
+    font-size: 64px;
+    font-family: 'Newsreader', serif;
+}
+.about {
+    background-color: rgb(223, 221, 221);
+}
+@media only screen and (max-width: 600px) {
+    .subscribe {
+        margin-top: 9px;
+    }
+    .large {
+        margin-top: 19px;
+    }
+    .fa-search {
+        margin-left: -23px;
+    }
+    .signup {
+        margin-top: 13px;
+    }
+    img {
+       display: none;
+    }
+    .title {
+font-size: 34px;
+    }
+}
